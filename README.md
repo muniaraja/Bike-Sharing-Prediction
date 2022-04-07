@@ -46,8 +46,10 @@ Please don't forget to perform this step as the R-squared score on the test set 
  
  # Results 
  
-Final Result Comparison <br><br>
+Final Result Comparison <br>
  - Train dataset R^2          : 0.763
 - Test dataset R^2           : 0.7268
 - Train dataset Adjusted R^2 : 0.757    
 - Test dataset Adjusted R^2  : 0.7123
+ 
+ Demand of bikes depend on year, holiday, temp, windspeed, Months, Light_snowrain and whether such as Misty, spring, summer and winter.
